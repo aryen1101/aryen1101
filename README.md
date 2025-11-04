@@ -1,11 +1,11 @@
 # 💫 About Me:
-🎨 Frontend Engineer passionate about building clean, scalable, and user-centric web & mobile interfaces.<br>  
-💡 I love transforming ideas into intuitive UI/UX experiences using React & React Native.<br>  
-🔭 Currently building end-to-end products — from wireframes to deploy.<br>  
-🤝 Always open to collaborating on impactful frontend or open-source projects.<br>  
-🌱 Deepening my understanding of backend APIs & system design to enhance frontend integration.<br>  
-💬 Ask me about React, UI architecture, and performance optimization.<br>  
-⚡ Fun fact: I design interfaces on Figma before I code them. Also — I play chess and watch anime! ♟️🎌  
+👋 Hi there! I’m **Aryen Mukundam**, a Frontend Developer passionate about building smooth and scalable **web & mobile applications**.<br>  
+⚛️ I specialize in crafting interactive user experiences using **React**, **React Native**, and **modern frontend ecosystems**.<br>  
+🎨 From designing in Figma to deploying on Vercel — I enjoy creating interfaces that blend **design, performance, and functionality**.<br>  
+🔭 Currently working on **full-stack applications** with a focus on optimized frontend architecture.<br>  
+🤝 Open to collaborating on impactful **frontend or cross-platform** projects.<br>  
+🌱 Expanding my knowledge in **backend APIs, system design, and scalable app infrastructure**.<br>  
+⚡ Fun fact: I visualize UI layouts before I code — also, I play chess and love anime! ♟️🎌  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryen1101&label=Profile%20views&color=0e75b6&style=flat" alt="aryen1101" />
@@ -25,7 +25,10 @@
 ---
 
 # 💻 Tech Stack:
-### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -35,17 +38,16 @@
 ![Context-API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ Backend & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🚀 Deployment
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
