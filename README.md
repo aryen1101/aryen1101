@@ -5,7 +5,6 @@
 🔭 Currently working on **full-stack applications** with a focus on optimized frontend architecture.<br>  
 🤝 Open to collaborating on impactful **frontend or cross-platform** projects.<br>  
 🌱 Expanding my knowledge in **backend APIs, system design, and scalable app infrastructure**.<br>  
-⚡ Fun fact: I visualize UI layouts before I code — also, I play chess and love anime! ♟️🎌  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryen1101&label=Profile%20views&color=0e75b6&style=flat" alt="aryen1101" />
