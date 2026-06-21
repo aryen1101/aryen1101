@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi there! I’m **Aryen Mukundam**, a Frontend Developer passionate about building smooth and scalable **web & mobile applications**.<br>  
-⚛️ I specialize in crafting interactive user experiences using **React**, **React Native**, and **modern frontend ecosystems**.<br>  
-🎨 From designing in Figma to deploying on Vercel — I enjoy creating interfaces that blend **design, performance, and functionality**.<br>  
-🔭 Currently working on **full-stack applications** with a focus on optimized frontend architecture.<br>  
-🤝 Open to collaborating on impactful **frontend or cross-platform** projects.<br>  
-🌱 Expanding my knowledge in **backend APIs, system design, and scalable app infrastructure**.<br>  
+👋 Hi there! I’m **Aryen Mukundam**, a Frontend Developer passionate about building smooth and scalable **web & mobile applications**.<br>
+⚛️ I specialize in crafting interactive user experiences using **React**, **React Native**, and **modern frontend ecosystems**.<br>
+🎨 From designing in Figma to deploying on Vercel — I enjoy creating interfaces that blend **design, performance, and functionality**.<br>
+🔭 Currently working on **full-stack applications** with a focus on optimized frontend architecture.<br>
+🤝 Open to collaborating on impactful **frontend or cross-platform** projects.<br>
+🌱 Expanding my knowledge in **backend APIs, system design, and scalable app infrastructure**.<br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryen1101&label=Profile%20views&color=0e75b6&style=flat" alt="aryen1101" />
@@ -13,12 +13,13 @@
 ---
 
 # 📊 GitHub Stats:
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryen1101&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryen1101&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryen1101&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryen1101&theme=vision_friendly_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryen1101&theme=vision_friendly_dark&utcOffset=8"/>
+  <!-- Live GitHub stats (updates automatically) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aryen1101&show_icons=true&theme=vision-friendly-dark" alt="aryen1101's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryen1101&layout=compact&theme=vision-friendly-dark" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryen1101&theme=vision-friendly-dark" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryen1101&theme=vision-friendly-dark" alt="Streak" />
 </div>
 
 ---
