@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m **Aryen Mukundam**, a Full Stack Developer building scalable **web & mobile applications** and exploring the possibilities of **Generative AI**.<br>
+👋 Hi there! I'm **Aryen Mukundam**, a Full Stack Developer building scalable **web & mobile applications** and exploring the possibilities of **Generative AI**.<br>
 🌐 I work across the stack — from frontend frameworks like **React** and **React Native** to backend services, APIs, and deployment pipelines.<br>
 🤖 I now have a strong understanding of **generative AI** technologies and how to integrate them into applications to enhance user experiences.<br>
 🎨 From designing in Figma to deploying on Vercel — I enjoy creating interfaces and systems that blend **design, performance, and functionality**.<br>
@@ -17,9 +17,11 @@
 
 <div align="center">
   <!-- Live GitHub stats (updates automatically) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aryen1101&show_icons=true&theme=vision-friendly-dark" alt="aryen1101's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryen1101&layout=compact&theme=vision-friendly-dark" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aryen1101&theme=vision-friendly-dark" alt="Trophies" />
+  <img alt="aryen1101's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryen1101&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true" />
+  
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryen1101&layout=compact&theme=vision-friendly-dark&hide_border=false" />
+  
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=aryen1101&theme=vision-friendly-dark&no-frame=false" />
 </div>
 
 ---
