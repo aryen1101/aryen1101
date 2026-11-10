@@ -57,10 +57,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/contributions.json cards
-          if git diff --cached --quiet; then
+          # Only the cards decide. The data always differs (it includes this
+          # repo's own last-push time), so it rides along with a card change.
+          if [ -z "$(git status --porcelain -- cards)" ]; then
             echo "Cards unchanged."
           else
+            git add data/contributions.json cards
             git commit -m "Refresh profile cards"
             git push
           fi
