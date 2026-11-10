@@ -124,6 +124,7 @@ def instance(style: str) -> Path:
     """Pin the variable font to one style's axes and cache it as a static TTF."""
     path = _tmp / f"{style}.ttf"
     font = instancer.instantiateVariableFont(TTFont(FONT), STYLES[style])
+    font.recalcTimestamp = False  # keep head.modified fixed, so unchanged cards stay byte-identical
     font.save(path)
     return path
 
