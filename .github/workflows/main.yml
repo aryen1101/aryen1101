@@ -27,3 +27,40 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Profile README cards. A separate job so a snake failure can't block them.
+  cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh contribution data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Written to a temp file first so a failed request never wipes the last good snapshot.
+        run: |
+          gh api graphql -F query=@scripts/contributions.graphql -f login=aryen1101 > "$RUNNER_TEMP/contributions.json"
+          mv "$RUNNER_TEMP/contributions.json" data/contributions.json
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render cards
+        run: |
+          pip install fonttools==4.63.0
+          python scripts/render_cards.py
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json cards
+          if git diff --cached --quiet; then
+            echo "Cards unchanged."
+          else
+            git commit -m "Refresh profile cards"
+            git push
+          fi

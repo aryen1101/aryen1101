@@ -1,0 +1,27 @@
+# Fetched daily by .github/workflows/main.yml into data/contributions.json:
+#   gh api graphql -F query=@scripts/contributions.graphql -f login=aryen1101
+query ($login: String!) {
+  user(login: $login) {
+    login
+    name
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        weeks {
+          contributionDays { date contributionCount contributionLevel weekday }
+        }
+      }
+    }
+    repositories(first: 100, ownerAffiliations: OWNER, isFork: false, orderBy: { field: PUSHED_AT, direction: DESC }) {
+      nodes {
+        name
+        url
+        description
+        stargazerCount
+        forkCount
+        pushedAt
+        primaryLanguage { name color }
+      }
+    }
+  }
+}
